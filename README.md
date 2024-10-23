@@ -1,118 +1,142 @@
-## **Apresentação do Projeto**
-
-### **Visão Geral**
-A proposta deste projeto é a criação de uma **comunidade colaborativa para desenvolvedores e entusiastas de tecnologia** no Discord. A comunidade será um espaço dinâmico para aprendizado, troca de ideias e desenvolvimento de projetos. Nosso foco é promover o crescimento técnico através de discussões, eventos, mentoria e a colaboração em projetos open-source.
-
-### **Propósito Principal**
-Oferecer um ambiente inclusivo para desenvolvedores de diferentes níveis, facilitando o acesso a conteúdos educativos, suporte a dúvidas, participação em hackathons, mentorias e projetos colaborativos. O objetivo é **impulsionar o desenvolvimento de habilidades técnicas e fomentar conexões valiosas** na área da tecnologia.
+### **Dev Society**
 
 ---
 
-## **Objetivos do Projeto**
+## Sumário
 
-### **Objetivo Geral**
-Construir uma **comunidade interativa** no Discord, voltada para desenvolvedores e especialistas em tecnologia, oferecendo suporte para aprendizado e colaboração em projetos práticos.
-
-### **Objetivos Específicos**
-- Promover discussões técnicas em diversas áreas (backend, frontend, DevOps, segurança, AI, etc.).
-- Desenvolver e compartilhar **conteúdos educacionais** (tutoriais, cursos, artigos).
-- Implementar um sistema de **mentoria** para ajudar desenvolvedores em diferentes fases de carreira.
-- Realizar **hackathons** e eventos online regulares.
-- Facilitar a **colaboração em projetos open-source** através de repositórios GitHub.
-- Tornar a comunidade sustentável por meio de **monetização** com serviços, parcerias e planos premium.
-
----
-
-## **Estrutura da Comunidade**
-
-### **Cargos e Funções**
-A estrutura organizacional contará com:
-- **Moderadores**: Responsáveis pela moderação dos canais e pelo cumprimento das regras.
-- **Gestores de Área**: Especialistas em diversas áreas de tecnologia, como backend, frontend, mobile, AI/ML, cibersegurança, etc.
-- **Educadores**: Responsáveis por criar conteúdos educativos, como cursos e tutoriais.
-- **Mentores**: Desenvolvedores experientes que guiarão membros iniciantes.
-- **Suporte Técnico**: Membros que ajudam a resolver problemas técnicos no dia a dia.
-
-### **Canais de Discussão**
-A comunidade será dividida em canais especializados, como:
-- **Desenvolvimento**: Discussões sobre backend, frontend, mobile, DevOps, AI/ML, etc.
-- **Cybersegurança**: Espaço para hacking ético, segurança de sistemas e testes de penetração.
-- **Projetos e Colaboração**: Divulgação e desenvolvimento de projetos colaborativos.
-- **Eventos**: Informações sobre hackathons, webinars e desafios semanais.
+1. [Apresentação da Ideia](#apresentação-da-ideia)  
+2. [Objetivos do Projeto](#objetivos-do-projeto)  
+3. [Estrutura e Organização da Comunidade](#estrutura-e-organização-da-comunidade)  
+4. [Atividades da Comunidade](#atividades-da-comunidade)  
+5. [Conteúdo Educacional e Repositórios](#conteúdo-educacional-e-repositórios)  
+6. [Monetização e Sustentabilidade](#monetização-e-sustentabilidade)  
+7. [Ferramentas e Automação](#ferramentas-e-automação)  
+8. [Cronograma do Projeto](#cronograma-do-projeto)  
+9. [Próximos Passos](#próximos-passos)  
+10. [Conclusão](#conclusão)
 
 ---
 
-## **Atividades da Comunidade**
+## 1. **Apresentação da Ideia**
 
-### **Hackathons e Desafios**
-- Organização de **hackathons** para a criação de projetos em equipe.
-- **Desafios semanais/mensais** com problemas de programação em várias linguagens.
+**Dev Society** é uma comunidade dedicada a desenvolvedores e entusiastas de tecnologia, criada no Discord para oferecer um espaço dinâmico e colaborativo. Nosso objetivo é promover o aprendizado contínuo, a troca de ideias e a participação ativa em projetos e eventos que abrangem áreas como desenvolvimento de software, hacking, cibersegurança, inteligência artificial e muito mais. 
 
-### **Lives de Código e Webinars**
-- Realização de **lives de código** com desenvolvedores experientes.
-- **Webinars** com especialistas do setor sobre temas técnicos e tendências.
+**Link para o servidor no Discord**: [Dev Society](https://discord.gg/vPuhUNQjNS)
 
-### **Mentorias e Grupos de Estudo**
-- Sistema de **mentoria** onde membros mais experientes ajudam iniciantes.
-- Formação de **grupos de estudo** focados em tecnologias específicas.
+O principal propósito da **Dev Society** é construir um ambiente inclusivo onde desenvolvedores de todos os níveis possam evoluir, através de conteúdos educativos, mentoria, desafios práticos e colaboração em projetos open-source.
 
 ---
 
-## **Conteúdo Educacional e Projetos Open-Source**
+## 2. **Objetivos do Projeto**
 
-### **Produção de Conteúdo**
-A comunidade produzirá tutoriais, vídeos e artigos educativos sobre desenvolvimento de software, bem como **cursos gratuitos e pagos**.
+### Objetivo Geral:
+Criar uma **comunidade interativa** no Discord, voltada para desenvolvedores e especialistas em tecnologia, oferecendo suporte para o aprendizado e desenvolvimento de habilidades, bem como oportunidades de colaboração em projetos práticos.
 
-### **Repositórios GitHub**
-Criação de um **repositório oficial no GitHub** para centralizar projetos colaborativos desenvolvidos pela comunidade, com foco em aprendizado e desenvolvimento conjunto.
-
----
-
-## **Monetização e Sustentabilidade**
-
-### **Prestação de Serviços**
-Oferecer um espaço onde empresas podem **contratar desenvolvedores** da comunidade para projetos freelance, com comissões revertidas para a sustentabilidade da comunidade.
-
-### **Parcerias e Patrocínios**
-Buscar **parcerias com empresas de tecnologia** e ferramentas de desenvolvimento para patrocinar eventos e gerar novas oportunidades.
-
-### **Plano Premium**
-Criar um **plano de assinatura premium** com acesso exclusivo a conteúdos avançados, mentorias privadas e eventos fechados.
+### Objetivos Específicos:
+- Organizar discussões técnicas focadas em diversas áreas (backend, frontend, segurança, AI, etc.).
+- Desenvolver e compartilhar materiais educativos, como **tutoriais**, **cursos** e **artigos**.
+- Criar um ambiente de **mentoria** e suporte para dúvidas técnicas.
+- Realizar eventos periódicos, como **hackathons** e **webinars**.
+- Facilitar a colaboração em projetos open-source via repositórios GitHub.
+- Tornar a comunidade sustentável através de **monetização** e **parcerias**.
 
 ---
 
-## **Ferramentas e Automação**
+## 3. **Estrutura e Organização da Comunidade**
 
-### **Bots de Automação**
-Utilização de **bots** para moderar a comunidade, automatizar tarefas, gerenciar gamificação e integrar com o GitHub para notificações de atualizações.
+### Cargos e Funções
+A **Dev Society** será estruturada em diferentes cargos para garantir uma gestão eficiente:
+- **Moderadores**: Responsáveis por manter a organização e moderação dos canais.
+- **Gestores de Área**: Especialistas responsáveis por áreas técnicas específicas (ex.: Backend, Mobile, Segurança).
+- **Educadores**: Desenvolvem e curam conteúdos educacionais.
+- **Mentores**: Guiam membros menos experientes ou que estão migrando de áreas.
+- **Suporte Técnico**: Prestam auxílio técnico em questões cotidianas da comunidade.
 
-### **Gamificação e Engajamento**
-Implementação de **sistemas de pontos e rankings** para engajar os membros com recompensas por participação ativa, ajuda em dúvidas e contribuições em projetos.
-
----
-
-## **Cronograma de Execução**
-
-### **Fase 1: Planejamento e Estruturação**
-- Pesquisa sobre outras comunidades de desenvolvedores e definição da estrutura do servidor.
-- Criação do protótipo da comunidade no Discord.
-
-### **Fase 2: Produção de Conteúdo**
-- Desenvolvimento de tutoriais, vídeos e conteúdos iniciais.
-- Organização do primeiro projeto colaborativo no GitHub.
-
-### **Fase 3: Lançamento e Divulgação**
-- Teste da comunidade com um **grupo beta** de membros e ajuste com base no feedback.
-- Lançamento oficial com divulgação nas redes sociais.
-
-### **Fase 4: Crescimento e Sustentabilidade**
-- Busca por **parcerias** e realização de eventos pagos.
-- Expansão da produção de conteúdo e estratégias de marketing para atrair novos membros.
+### Canais de Discussão
+A comunidade contará com canais temáticos para diversas áreas:
+- **Desenvolvimento**: Discussões sobre backend, frontend, mobile, DevOps e AI.
+- **Cybersegurança**: Foco em hacking ético e segurança da informação.
+- **Suporte e Dúvidas**: Espaço para resolução de problemas e dúvidas técnicas.
+- **Projetos e Colaborações**: Canais para divulgação de projetos e colaboração em código aberto.
+- **Eventos e Anúncios**: Informações sobre hackathons, workshops e webinars.
 
 ---
 
-## **Conclusão**
+## 4. **Atividades da Comunidade**
 
-O projeto de criação de uma **comunidade de desenvolvedores no Discord** tem como objetivo promover o crescimento coletivo, oferecendo um ambiente de troca de conhecimento, mentorias e colaboração em projetos práticos. Através de uma estrutura bem planejada, atividades educacionais e oportunidades de networking, a comunidade visa se tornar um espaço inovador e sustentável, impactando positivamente a carreira de seus membros.
+### Hackathons e Desafios
+Organizaremos **hackathons periódicos** para promover o trabalho em equipe e incentivar a criação de projetos inovadores. Além disso, haverá **desafios semanais/mensais** de programação para manter os membros engajados.
+
+### Lives de Código e Webinars
+Especialistas irão realizar **lives de código**, desenvolvendo projetos ao vivo, enquanto os membros podem interagir e aprender. Serão também realizados **webinars** com convidados de destaque na área de tecnologia.
+
+### Mentorias e Grupos de Estudo
+Desenvolvedores experientes estarão à disposição para **mentorias**, e a comunidade formará **grupos de estudo** para tecnologias específicas, promovendo o aprendizado coletivo.
 
 ---
+
+## 5. **Conteúdo Educacional e Repositórios**
+
+### Produção de Conteúdo
+A **Dev Society** se compromete a oferecer uma ampla gama de **tutoriais**, **vídeos** e **artigos** educativos para desenvolvedores de todos os níveis. Membros também terão a oportunidade de criar e compartilhar seus próprios materiais.
+
+### Repositórios GitHub
+A comunidade terá repositórios oficiais no GitHub, onde serão centralizados os projetos colaborativos, oferecendo uma excelente oportunidade para aprendizado prático e networking.
+
+---
+
+## 6. **Monetização e Sustentabilidade**
+
+### Prestação de Serviços
+A **Dev Society** criará uma plataforma onde empresas podem contratar desenvolvedores da comunidade, possibilitando que os membros encontrem oportunidades de trabalho, com comissão revertida para a sustentabilidade do servidor.
+
+### Parcerias e Patrocínios
+Buscaremos parcerias com empresas de tecnologia e ferramentas de desenvolvimento para patrocinar eventos, criando um ambiente sustentável e repleto de oportunidades.
+
+### Plano Premium
+Ofereceremos um **plano de assinatura premium**, que dará acesso a conteúdos exclusivos, mentorias privadas e participação em eventos fechados.
+
+---
+
+## 7. **Ferramentas e Automação**
+
+### Bots de Automação
+Implementaremos bots para moderação e gamificação, promovendo a automação de tarefas administrativas e a criação de um sistema de recompensas por participação.
+
+### Gamificação
+Utilizaremos mecanismos de **gamificação**, com pontos e níveis para incentivar o engajamento dos membros em atividades como participação em eventos e colaboração em projetos.
+
+---
+
+## 8. **Cronograma do Projeto**
+
+### Fase 1: Planejamento e Estruturação
+- Definir a estrutura de canais, cargos e bots da comunidade.
+- Criar o protótipo do servidor no Discord.
+
+### Fase 2: Produção de Conteúdo
+- Desenvolver o conteúdo inicial (tutoriais, vídeos, cursos).
+- Estruturar o repositório GitHub para o primeiro projeto colaborativo.
+
+### Fase 3: Lançamento e Divulgação
+- Convidar um grupo beta para testar e fornecer feedback.
+- Lançar a comunidade oficialmente com ampla divulgação nas redes sociais.
+
+### Fase 4: Crescimento e Sustentabilidade
+- Buscar parcerias, lançar eventos patrocinados e aumentar a produção de conteúdo.
+
+---
+
+## 9. **Próximos Passos**
+
+- Definir responsabilidades dentro da equipe de desenvolvimento da comunidade.
+- Organizar reuniões regulares para acompanhar o progresso do projeto.
+- Ajustar o planejamento conforme o feedback dos membros e a evolução da comunidade.
+
+---
+
+## 10. **Conclusão**
+
+A **Dev Society** tem o objetivo de se tornar uma **comunidade inovadora e sustentável** para desenvolvedores, promovendo a educação, o networking e a colaboração. Com a estrutura proposta, esperamos criar um ambiente prático e enriquecedor, que beneficie tanto iniciantes quanto especialistas na área de tecnologia.
+
+Participe da **Dev Society** no Discord: [Dev Society - Discord](https://discord.gg/vPuhUNQjNS)
